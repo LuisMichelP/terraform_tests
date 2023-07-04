@@ -1,0 +1,15 @@
+mkdir tfinfra #to create a directory called tfinfra
+
+cd tfinfra #change directory
+
+terraform init #initializa terraform
+
+in the same directory. To rewrite the Terraform configuration files to a canonical format and style, run the following command:
+terraform fmt
+
+reinicialize terraform(terraform init)
+
+terraform plan #this to create an execution plan 
+
+terraform apply #to apply the execution plan
+
